@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '8285'
     url: http://www.gutenberg.org/2009/agents/8285
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33480#Under-Fire-For-Servia
 gutenberg_bookshelf: World War I
 gutenberg_issued: '2010-08-21'
 gutenberg_type: Text
