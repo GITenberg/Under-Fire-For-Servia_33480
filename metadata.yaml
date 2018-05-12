@@ -1,0 +1,33 @@
+_repo: Under-Fire-For-Servia_33480
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Furman, E. A.
+    gutenberg_agent_id: '6784'
+    url: http://www.gutenberg.org/2009/agents/6784
+covers:
+- cover_type: archival
+  image_path: 33480-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Fiske, James
+    alias: Fiske, Colonel James
+    birthdate: 1885
+    deathdate: 1933
+    gutenberg_agent_id: '8285'
+    url: http://www.gutenberg.org/2009/agents/8285
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2010-08-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33480'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Juvenile fiction'
+- !lcc 'PZ'
+title: Under Fire For Servia
+url: http://www.gutenberg.org/ebooks/33480
